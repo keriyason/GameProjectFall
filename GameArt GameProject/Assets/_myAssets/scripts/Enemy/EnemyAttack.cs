@@ -78,7 +78,7 @@ namespace CompleteProject
 			{
                 // ... damage the player.
                 playerHealth.floatVariable -= attackDamage;
-                ScoreManager.damaged = true;
+                
             }
 		}
 	}
